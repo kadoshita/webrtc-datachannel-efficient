@@ -1,0 +1,23 @@
+{
+  "name": "webrtc-datachannel-efficient",
+  "version": "0.0.1",
+  "description": "WebRTCのDataChannelでサイズが大きなデータを効率良く送るためのサンプルコード",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "server": "tsx --watch server.mts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sublimer <sublimer.me@gmail.com> (https://sublimer.me/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/ws": "^8.18.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.1"
+  },
+  "dependencies": {
+    "ws": "^8.18.1"
+  }
+}
