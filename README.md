@@ -1,0 +1,2 @@
+# webrtc-datachannel-efficient
+WebRTCのDataChannelでサイズが大きなデータを効率良く送るためのサンプルコード
